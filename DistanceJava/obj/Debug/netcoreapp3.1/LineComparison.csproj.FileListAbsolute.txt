@@ -1,0 +1,13 @@
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\bin\Debug\netcoreapp3.1\LineComparison.exe
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\bin\Debug\netcoreapp3.1\LineComparison.deps.json
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\bin\Debug\netcoreapp3.1\LineComparison.runtimeconfig.json
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\bin\Debug\netcoreapp3.1\LineComparison.runtimeconfig.dev.json
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\bin\Debug\netcoreapp3.1\LineComparison.dll
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\bin\Debug\netcoreapp3.1\LineComparison.pdb
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\obj\Debug\netcoreapp3.1\LineComparison.AssemblyInfoInputs.cache
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\obj\Debug\netcoreapp3.1\LineComparison.AssemblyInfo.cs
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\obj\Debug\netcoreapp3.1\LineComparison.csproj.CoreCompileInputs.cache
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\obj\Debug\netcoreapp3.1\LineComparison.dll
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\obj\Debug\netcoreapp3.1\LineComparison.pdb
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\obj\Debug\netcoreapp3.1\LineComparison.genruntimeconfig.cache
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\obj\Debug\netcoreapp3.1\LineComparison.csproj.AssemblyReference.cache

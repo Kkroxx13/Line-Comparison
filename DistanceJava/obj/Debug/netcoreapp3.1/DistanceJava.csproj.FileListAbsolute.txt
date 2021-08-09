@@ -1,0 +1,12 @@
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\obj\Debug\netcoreapp3.1\DistanceJava.AssemblyInfoInputs.cache
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\obj\Debug\netcoreapp3.1\DistanceJava.AssemblyInfo.cs
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\obj\Debug\netcoreapp3.1\DistanceJava.csproj.CoreCompileInputs.cache
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\bin\Debug\netcoreapp3.1\DistanceJava.exe
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\bin\Debug\netcoreapp3.1\DistanceJava.deps.json
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\bin\Debug\netcoreapp3.1\DistanceJava.runtimeconfig.json
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\bin\Debug\netcoreapp3.1\DistanceJava.runtimeconfig.dev.json
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\bin\Debug\netcoreapp3.1\DistanceJava.dll
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\bin\Debug\netcoreapp3.1\DistanceJava.pdb
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\obj\Debug\netcoreapp3.1\DistanceJava.dll
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\obj\Debug\netcoreapp3.1\DistanceJava.pdb
+C:\Users\karan\source\repos\DistanceJava\DistanceJava\obj\Debug\netcoreapp3.1\DistanceJava.genruntimeconfig.cache
